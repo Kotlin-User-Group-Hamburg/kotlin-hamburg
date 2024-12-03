@@ -8,7 +8,7 @@ RSVP there.
 Proposals
 ---------
 
-Talk proposals should be created as issues. They should include a title 
+Talk proposals should be created as [issues](https://github.com/Kotlin-User-Group-Hamburg/kotlin-hamburg/issues). They should include a title 
 and a short description of the talk. A hint about the level would be nice (beginner, intermediate, advanced) would be helpful.
 
 Proposals should be assigned to the proposed speaker.
